@@ -1,0 +1,7 @@
+name: task2
+version: '1.0-SNAPSHOT'
+main: pl.podatek.task2
+api-version: '1.18'
+commands:
+  rekrutacja:
+    description: Task2 Command
